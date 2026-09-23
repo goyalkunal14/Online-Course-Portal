@@ -73,9 +73,6 @@ By deploying the server on Render and the frontend on Vercel, we ensure high ava
 
 We welcome contributions from the community to improve and enhance our Online Course Portal. Feel free to fork the repository, make changes, and submit pull requests.
 
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
